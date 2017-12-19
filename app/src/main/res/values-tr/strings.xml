@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OMA</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="speech_prompt">Bir şeyler söyleyin&#8230;</string>
+    <string name="tap_on_mic">Konuşmak için mikrofona dokunun</string>
+    <string name="no_activity">Sadece \n\n \"Sınav Sonuçları\", \n\n \"Yemekhane\", \n\n \"Ders Programı\" \n\niçin arama yapabilirsiniz.</string>
+    <string name="speech_not_supported">Cihazınız sesli girişi desteklemiyor.</string>
+    <string name="exam">.*not.*</string>
+    <string name="refectory">.*yemek.*</string>
+    <string name="schedule">.*ders.*</string>
+</resources>

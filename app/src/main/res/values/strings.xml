@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OMA</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+    <string name="no_activity">You can only search for \n\n \"Exam Results\", \n\n \"Refectory\", \n\n \"Schedule\".</string>
+    <string name="exam">.*exam.*</string>
+    <string name="refectory">.*refectory.*</string>
+    <string name="schedule">.*schedule.*</string>
+</resources>
